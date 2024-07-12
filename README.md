@@ -1,6 +1,6 @@
 ## 本地部署教程
 
-## 1. 下载源码并解压
+## 1. 下载源码
 
 ```git
 git clone https://github.com/Li-CW/Job_Hunter.git
@@ -8,9 +8,9 @@ git clone https://github.com/Li-CW/Job_Hunter.git
 
 ## 2. 启动后端
 
-1. 进入后端目录`\backend\csweb`下。
+1. 进入后端目录`\backend\csweb`下，启动cmd，确保cmd目录在`\backend\csweb` 下。
 
-2. 启动命令行，切换到上面目录，安装依赖
+2. 安装依赖
 
    ```bash
    pip install -r requirements.txt
