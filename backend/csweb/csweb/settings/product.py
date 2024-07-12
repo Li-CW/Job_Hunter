@@ -1,0 +1,1 @@
+from csweb.settings.develop import *

@@ -1,0 +1,13 @@
+@import "./reset.scss";
+@font-face {
+  font-family: "Satisfy";
+  crossorigin: "anonymous";
+  src: url(./Satisfy.ttf);
+}
+.el-sub-menu__title {
+  height: 50px !important;
+  line-height: 50px !important; /* 确保内容垂直居中 */
+}
+.el-menu-item {
+  height: 50px !important;
+}

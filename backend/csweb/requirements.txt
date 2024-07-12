@@ -1,0 +1,4 @@
+Django==4.0.6
+django_redis==5.2.0
+djangorestframework==3.14.0
+djangorestframework_simplejwt==5.2.0
