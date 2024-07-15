@@ -31,3 +31,8 @@ git clone https://github.com/Li-CW/Job_Hunter.git
 
    
 
+## 3. 后端添加数据
+
+1. 创建`django`的超级管理员，使用账号密码进入后端：http://127.0.0.1:8000/admin/login/?next=/admin/
+2. 添加company，job，subject数据
+
